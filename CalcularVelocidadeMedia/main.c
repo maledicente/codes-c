@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio.h> //Biblioteca de entrada e saida
 
 int main(){
 	
-	float distancia, tempo, vm;
+	float distancia, tempo, vm; //Variaveis
 	
 	printf("--------------------------");
 	printf("\nCALCULADORA VELOCIDADE MEDIA");
