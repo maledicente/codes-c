@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1593380433 source:c:\users\user\documents\codes-c\bibliotecafuncoes\bibliotecafuncoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1593380632 c:\users\user\documents\codes-c\bibliotecafuncoes\bibliotecafuncoes\funcoes.h
+
+1593380632 source:c:\users\user\documents\codes-c\bibliotecafuncoes\bibliotecafuncoes\funcoes.c
+	<stdio.h>
+	"funcoes.h"
+
+1593381002 source:c:\users\user\documents\codes-c\bibliotecafuncoes\funcoes.c
+	<stdio.h>
+	"funcoes.h"
+
+1593386703 c:\users\user\documents\codes-c\bibliotecafuncoes\funcoes.h
+
+1593380999 source:c:\users\user\documents\codes-c\bibliotecafuncoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
